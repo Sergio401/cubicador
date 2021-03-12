@@ -1,0 +1,19 @@
+.container{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.personalData{
+    margin: 20px 100px 20px 100px;
+}
+
+.image__house{
+    margin: 10px 10px 10px 10px;
+}
+
+.form__selection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
